@@ -19,7 +19,9 @@ practical project ideas.
 
 _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
--   [UbiPro Expense Tracker](https://github.com/ubiquitous-projects/ubipro-expense-tracker) -
+-   [UbiPro Cryptocurrency Indexer](https://www.github.com/ubiquitous-projects/ubipro-cryptocurrency-indexer) -
+    A Node.js based command-line interface for indexing cryptocurrency prices.
+-   [UbiPro Expense Tracker](https://www.github.com/ubiquitous-projects/ubipro-expense-tracker) -
     A Vue 3 and Composition API based app for tracking expenses.
 
 _All ideas are open. All contributions are welcome!_
@@ -27,12 +29,12 @@ _All ideas are open. All contributions are welcome!_
 ## Connect with Us
 
 Feel free to reach out to Michael K Macharia, the main contributor to Ubiquitous
-Projects, through his [GitHub](https://github.com/michaelkmacharia) account or
-[Email](michaelkmacharia@gmail.com) address.
+Projects, through his [GitHub](https://www.github.com/michaelkmacharia) account
+or [Email](michaelkmacharia@gmail.com) address.
 
 ## Stay Updated
 
 For the latest updates, regularly come back and explore, maybe even contribute,
-to our [GitHub](https://github.com/ubiquitous-projects) repo.
+to our [GitHub](https://www.github.com/ubiquitous-projects) repo.
 
 Thank you for your interest, and happy exploring!
