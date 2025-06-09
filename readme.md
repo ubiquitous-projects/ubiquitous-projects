@@ -1,14 +1,15 @@
-# ubiquitous-projects
+# Ubiquitous Projects
 
-## 📌 Ubiquitous Projects — Your Launchpad for Open Source Innovations 🚀
+## 📌 Welcome to Ubiquitous Projects — Your Launchpad for Open Source Innovations 🚀
 
-Looking for your next side project, hackathon idea, or portfolio builder?
-Welcome to **Ubiquitous Projects** — a curated collection of open-source
+Looking for your next side project, hackathon idea, or portfolio builder? Then
+welcome to **Ubiquitous Projects** — a curated collection of open-source
 projects designed to spark inspiration and kickstart creativity.
 
 Each project in this repo includes:
 
 -   🔹 A brief description of the idea.
+
 -   🔹 An existing implementation or starter template.
 
 Whether you're a beginner exploring your first build or a seasoned dev looking
@@ -19,10 +20,82 @@ practical project ideas.
 
 _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
+-   [UbiPro Accessibility Tester](https://www.github.com/ubiquitous-projects/ubipro-accessibility-tester) -
+    A NodeJS based app for testing a website's accessibility.
+
+-   [UbiPro Agency Website](https://www.github.com/ubiquitous-projects/ubipro-agency-website) -
+    A pure CSS, HTML, and JS only based website for a creative agency.
+
+-   [UbiPro ChatGPT Wrapper](https://www.github.com/ubiquitous-projects/ubipro-chatgpt-wrapper) -
+    A Node.js based wrapper for interfacing with ChatGPT via your terminal.
+
+-   [UbiPro Client Manager](https://www.github.com/ubiquitous-projects/ubipro-client-manager) -
+    An Aurelia JS based app for managing your business clients using the
+    LocalStorage API.
+
 -   [UbiPro Cryptocurrency Indexer](https://www.github.com/ubiquitous-projects/ubipro-cryptocurrency-indexer) -
     A Node.js based command-line interface for indexing cryptocurrency prices.
+
 -   [UbiPro Expense Tracker](https://www.github.com/ubiquitous-projects/ubipro-expense-tracker) -
-    A Vue 3 and Composition API based app for tracking expenses.
+    A Vue 3 and Composition API based app for tracking your expenses.
+
+-   [UbiPro Gamer Tracker](https://www.github.com/ubiquitous-projects/ubipro-gamer-tracker) -
+    An Express and Vue 3 based app for tracking gamer stats via the Tracker
+    Network API.
+
+-   [UbiPro Github Searcher](https://www.github.com/ubiquitous-projects/ubipro-github-searcher) -
+    An Angular 2 based app for searching Github users and repos.
+
+-   [UbiPro IT Logger](https://www.github.com/ubiquitous-projects/ubipro-it-logger) -
+    A JSON Server and React JS based app for logging and tracking IT department
+    issues and tasks.
+
+-   [UbiPro Laravel Gigs](https://www.github.com/ubiquitous-projects/ubipro-laravel-gigs) -
+    A Laravel based app for listing Laravel gigs and jobs.
+
+-   [UbiPro Lyrics Finder](https://www.github.com/ubiquitous-projects/ubipro-lyrics-finder) -
+    A React based app for finding the lyrics to songs via Musixmatch's API.
+
+-   [UbiPro Meets Booker](https://www.github.com/ubiquitous-projects/ubipro-meets-booker) -
+    An Appwrite, Next.js, and Tailwind CSS based app for booking meeting rooms.
+
+-   [UbiPro Pets Locator](https://www.github.com/ubiquitous-projects/ubipro-pets-locator) -
+    A Babel and Parcel based app for using zipcodes to locate pets via the
+    Petfinder API.
+
+-   [UbiPro QRC Generator](https://www.github.com/ubiquitous-projects/ubipro-qrc-generator) -
+    A vanilla CSS, HTML, and JS website for generating QR codes from valid
+    hyperlinks.
+
+-   [UbiPro Quick Pollster](https://www.github.com/ubiquitous-projects/ubipro-quick-pollster) -
+    A Django based app for running polls through regular and multiple-choice
+    questions.
+
+-   [UbiPro Scores Boarder](https://www.github.com/ubiquitous-projects/ubipro-scores-boarder) -
+    A Svelte.js based app for showcasing scores through a scoreboard.
+
+-   [UbiPro Soup Scrapper](https://www.github.com/ubiquitous-projects/ubipro-soup-scrapper) -
+    A Python 3 based app for scrapping websites via Beautiful Soup.
+
+-   [UbiPro Staff Manager](https://www.github.com/ubiquitous-projects/ubipro-staff-manager) -
+    A Vue.js and FireStore based app for managing your staff.
+
+-   [UbiPro Support Desk](https://www.github.com/ubiquitous-projects/ubipro-support-desk) -
+    A MERN stack based app for implementing customer support via a robust
+    ticketing system.
+
+-   [UbiPro System Monitor](https://www.github.com/ubiquitous-projects/ubipro-system-monitor) -
+    An Electron based app for monitoring your CPU usage.
+
+-   [UbiPro TTS Translator](https://www.github.com/ubiquitous-projects/ubipro-tts-translator) -
+    A Vercel CLI based app for translating text-to-speech input via Google
+    Translate and the Web Speech API.
+
+-   [UbiPro URL Shortener](https://www.github.com/ubiquitous-projects/ubipro-url-shortener) -
+    An Express, MongoDB, and Node based API for a shortening URLs.
+
+-   [UbiPro Voice Assistant](https://www.github.com/ubiquitous-projects/ubipro-voice-assistant) -
+    A Python3 based app for assisting with interactions via voice commands.
 
 _All ideas are open. All contributions are welcome!_
 
