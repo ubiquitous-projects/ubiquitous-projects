@@ -33,8 +33,16 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
     An Aurelia JS based app for managing your business clients using the
     LocalStorage API.
 
+-   [UbiPro Content Manager](https://www.github.com/ubiquitous-projects/ubipro-content-manager) -
+    A Ruby-On-Rails 4 based app for implementing an efficient content management
+    system.
+
 -   [UbiPro Cryptocurrency Indexer](https://www.github.com/ubiquitous-projects/ubipro-cryptocurrency-indexer) -
     A Node.js based command-line interface for indexing cryptocurrency prices.
+
+-   [UbiPro Easy Bookmarker](https://www.github.com/ubiquitous-projects/ubipro-easy-bookmarker) -
+    A pure CSS, HTML, and JS based website for easily bookmarking websites using
+    LocalStorage.
 
 -   [UbiPro Expense Tracker](https://www.github.com/ubiquitous-projects/ubipro-expense-tracker) -
     A Vue 3 and Composition API based app for tracking your expenses.
@@ -50,14 +58,30 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
     A JSON Server and React JS based app for logging and tracking IT department
     issues and tasks.
 
+-   [UbiPro Keyword Extractor](https://www.github.com/ubiquitous-projects/ubipro-keyword-extractor) -
+    A Chakra UI and React JS based app for extracting keywords from text input
+    via OpenAI's Completion API.
+
+-   [UbiPro Kleidung Ecommerce](https://www.github.com/ubiquitous-projects/ubipro-kleidung-ecommerce) -
+    A Next.js, PostgreSQL, and Prisma based app that empowers vendors to easily
+    sell clothes online via a full-featured web interface.
+
 -   [UbiPro Laravel Gigs](https://www.github.com/ubiquitous-projects/ubipro-laravel-gigs) -
     A Laravel based app for listing Laravel gigs and jobs.
 
 -   [UbiPro Lyrics Finder](https://www.github.com/ubiquitous-projects/ubipro-lyrics-finder) -
     A React based app for finding the lyrics to songs via Musixmatch's API.
 
+-   [UbiPro Media Informer](https://www.github.com/ubiquitous-projects/ubipro-media-informer) -
+    A vanilla CSS, HTML, and JS based website that leverages The Movie DB API to
+    provide information on screen media, specifically movies and series.
+
 -   [UbiPro Meets Booker](https://www.github.com/ubiquitous-projects/ubipro-meets-booker) -
     An Appwrite, Next.js, and Tailwind CSS based app for booking meeting rooms.
+
+-   [UbiPro PDF Viewer](https://www.github.com/ubiquitous-projects/ubipro-pdf-viewer) -
+    A custom CSS, HTML, and JS based website that leverages the Pdf.js library
+    to easily view PDF files on your browser.
 
 -   [UbiPro Pets Locator](https://www.github.com/ubiquitous-projects/ubipro-pets-locator) -
     A Babel and Parcel based app for using zipcodes to locate pets via the
@@ -96,6 +120,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro Voice Assistant](https://www.github.com/ubiquitous-projects/ubipro-voice-assistant) -
     A Python3 based app for assisting with interactions via voice commands.
+
+-   [UbiPro Weather Reporter](https://www.github.com/ubiquitous-projects/ubipro-weather-reporter) -
+    An Ionic 3 based app that uses the WunderGround API to track and deliver
+    weather reports.
 
 _All ideas are open. All contributions are welcome!_
 
