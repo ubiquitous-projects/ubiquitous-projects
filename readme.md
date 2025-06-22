@@ -26,6 +26,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 -   [UbiPro Agency Website](https://www.github.com/ubiquitous-projects/ubipro-agency-website) -
     A pure CSS, HTML, and JS only based website for a creative agency.
 
+-   [UbiPro Bokeh Visualiser](https://www.github.com/ubiquitous-projects/ubipro-bokeh-visualiser) -
+    A Python 3 based app for leveraging the Bokeh library to easily chart and
+    visualise data from a CSV file.
+
 -   [UbiPro ChatGPT Wrapper](https://www.github.com/ubiquitous-projects/ubipro-chatgpt-wrapper) -
     A Node.js based wrapper for interfacing with ChatGPT via your terminal.
 
@@ -39,6 +43,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro Cryptocurrency Indexer](https://www.github.com/ubiquitous-projects/ubipro-cryptocurrency-indexer) -
     A Node.js based command-line interface for indexing cryptocurrency prices.
+
+-   [UbiPro Customer CLI](https://www.github.com/ubiquitous-projects/ubipro-customer-cli) -
+    A Commander.js, Inquirer.js, and Mongoose based CLI for managing your
+    customer base.
 
 -   [UbiPro Easy Bookmarker](https://www.github.com/ubiquitous-projects/ubipro-easy-bookmarker) -
     A pure CSS, HTML, and JS based website for easily bookmarking websites using
@@ -87,6 +95,12 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
     A Babel and Parcel based app for using zipcodes to locate pets via the
     Petfinder API.
 
+-   [UbiPro Portfolio Website](https://www.github.com/ubiquitous-projects/ubipro-portfolio-website) -
+    A pure CSS, HTML, and JS only based website for an online portfolio.
+
+-   [UbiPro Project Manager](https://www.github.com/ubiquitous-projects/ubipro-project-manager) -
+    A React JS based app for efficiently managing your projects.
+
 -   [UbiPro QRC Generator](https://www.github.com/ubiquitous-projects/ubipro-qrc-generator) -
     A vanilla CSS, HTML, and JS website for generating QR codes from valid
     hyperlinks.
@@ -97,6 +111,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro Scores Boarder](https://www.github.com/ubiquitous-projects/ubipro-scores-boarder) -
     A Svelte.js based app for showcasing scores through a scoreboard.
+
+-   [UbiPro Shopping Lister](https://www.github.com/ubiquitous-projects/ubipro-shopping-lister) -
+    A custom CSS, HTML, and JS based website that uses LocalStorage to create,
+    read, update, and delete items on your shopping list.
 
 -   [UbiPro Soup Scrapper](https://www.github.com/ubiquitous-projects/ubipro-soup-scrapper) -
     A Python 3 based app for scrapping websites via Beautiful Soup.
@@ -110,6 +128,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro System Monitor](https://www.github.com/ubiquitous-projects/ubipro-system-monitor) -
     An Electron based app for monitoring your CPU usage.
+
+-   [UbiPro Tech Blogger](https://www.github.com/ubiquitous-projects/ubipro-tech-blogger) -
+    An Astro and Markdown based app for implementing a beautiful and nimble
+    software and technology blog.
 
 -   [UbiPro TTS Translator](https://www.github.com/ubiquitous-projects/ubipro-tts-translator) -
     A Vercel CLI based app for translating text-to-speech input via Google
@@ -125,13 +147,19 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
     An Ionic 3 based app that uses the WunderGround API to track and deliver
     weather reports.
 
+-   [UbiPro Wildfire Tracker](https://www.github.com/ubiquitous-projects/ubipro-wildfire-tracker) -
+    A React based app that leverages the Google Maps API and the NASA API, to
+    track ongoing wildfires and conveniently plot them on a map for users to
+    monitor.
+
 _All ideas are open. All contributions are welcome!_
 
 ## Connect with Us
 
-Feel free to reach out to Michael K Macharia, the main contributor to Ubiquitous
-Projects, through his [GitHub](https://www.github.com/michaelkmacharia) account
-or [Email](michaelkmacharia@gmail.com) address.
+Feel free to reach out to Michael K Macharia, the creator of and main
+contributor to Ubiquitous Projects, through his
+[GitHub](https://www.github.com/michaelkmacharia) account or
+[Email](michaelkmacharia@gmail.com) address.
 
 ## Stay Updated
 
