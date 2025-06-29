@@ -30,6 +30,13 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
     A Python 3 based app for leveraging the Bokeh library to easily chart and
     visualise data from a CSV file.
 
+-   [UbiPro Browser Pass](https://www.github.com/ubiquitous-projects/ubipro-browser-pass) -
+    A custom CSS, HTML, and JS only based website for generating secure
+    passwords offline, via your browser.
+
+-   [UbiPro Bugs Logger](https://www.github.com/ubiquitous-projects/ubipro-bugs-logger) -
+    An Electron and MongoDB based app for logging and tracking software bugs.
+
 -   [UbiPro ChatGPT Wrapper](https://www.github.com/ubiquitous-projects/ubipro-chatgpt-wrapper) -
     A Node.js based wrapper for interfacing with ChatGPT via your terminal.
 
@@ -48,9 +55,15 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
     A Commander.js, Inquirer.js, and Mongoose based CLI for managing your
     customer base.
 
+-   [UbiPro Deno Rester](https://www.github.com/ubiquitous-projects/ubipro-deno-rester) -
+    A Deno, Oak, and PostgreSQL based RESTful API for a products frontend.
+
 -   [UbiPro Easy Bookmarker](https://www.github.com/ubiquitous-projects/ubipro-easy-bookmarker) -
     A pure CSS, HTML, and JS based website for easily bookmarking websites using
     LocalStorage.
+
+-   [UbiPro Ebook Seller](https://www.github.com/ubiquitous-projects/ubipro-ebook-seller) -
+    An Express and Stripe API based app for quickly selling any ebook online.
 
 -   [UbiPro Expense Tracker](https://www.github.com/ubiquitous-projects/ubipro-expense-tracker) -
     A Vue 3 and Composition API based app for tracking your expenses.
@@ -61,6 +74,9 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro Github Searcher](https://www.github.com/ubiquitous-projects/ubipro-github-searcher) -
     An Angular 2 based app for searching Github users and repos.
+
+-   [UbiPro Image Minimiser](https://www.github.com/ubiquitous-projects/ubipro-image-minimiser) -
+    An Electron based app for consistently minimising images.
 
 -   [UbiPro IT Logger](https://www.github.com/ubiquitous-projects/ubipro-it-logger) -
     A JSON Server and React JS based app for logging and tracking IT department
@@ -76,6 +92,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro Laravel Gigs](https://www.github.com/ubiquitous-projects/ubipro-laravel-gigs) -
     A Laravel based app for listing Laravel gigs and jobs.
+
+-   [UbiPro Live Poller](https://www.github.com/ubiquitous-projects/ubipro-live-poller) -
+    A Canvas, Express, Mongo, Node, and Pusher based app for running real-time
+    polls.
 
 -   [UbiPro Lyrics Finder](https://www.github.com/ubiquitous-projects/ubipro-lyrics-finder) -
     A React based app for finding the lyrics to songs via Musixmatch's API.
@@ -100,6 +120,9 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro Project Manager](https://www.github.com/ubiquitous-projects/ubipro-project-manager) -
     A React JS based app for efficiently managing your projects.
+
+-   [UbiPro Puppeteer Scrapper](https://www.github.com/ubiquitous-projects/ubipro-puppeteer-scrapper) -
+    A Node.js based app for scrapping websites using Puppeteer.
 
 -   [UbiPro QRC Generator](https://www.github.com/ubiquitous-projects/ubipro-qrc-generator) -
     A vanilla CSS, HTML, and JS website for generating QR codes from valid
@@ -156,7 +179,7 @@ _All ideas are open. All contributions are welcome!_
 
 ## Connect with Us
 
-Feel free to reach out to Michael K Macharia, the creator of and main
+Feel free to reach out to **Michael K Macharia**, the creator of and main
 contributor to Ubiquitous Projects, through his
 [GitHub](https://www.github.com/michaelkmacharia) account or
 [Email](michaelkmacharia@gmail.com) address.
