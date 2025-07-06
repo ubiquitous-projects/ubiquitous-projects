@@ -9,7 +9,6 @@ projects designed to spark inspiration and kickstart creativity.
 Each project in this repo includes:
 
 -   🔹 A brief description of the idea.
-
 -   🔹 An existing implementation or starter template.
 
 Whether you're a beginner exploring your first build or a seasoned dev looking
@@ -93,6 +92,9 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 -   [UbiPro Laravel Gigs](https://www.github.com/ubiquitous-projects/ubipro-laravel-gigs) -
     A Laravel based app for listing Laravel gigs and jobs.
 
+-   [UbiPro Lightning Blog](https://www.github.com/ubiquitous-projects/ubipro-lightning-blog) -
+    A Prisma, React, and Remix based app for implementing a lightning fast blog.
+
 -   [UbiPro Live Poller](https://www.github.com/ubiquitous-projects/ubipro-live-poller) -
     A Canvas, Express, Mongo, Node, and Pusher based app for running real-time
     polls.
@@ -106,6 +108,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro Meets Booker](https://www.github.com/ubiquitous-projects/ubipro-meets-booker) -
     An Appwrite, Next.js, and Tailwind CSS based app for booking meeting rooms.
+
+-   [UbiPro Notion Youtuber](https://www.github.com/ubiquitous-projects/ubipro-notion-youtuber) -
+    An Express based app for leveraging the Notion API to fetch and display
+    scheduled YouTube videos.
 
 -   [UbiPro PDF Viewer](https://www.github.com/ubiquitous-projects/ubipro-pdf-viewer) -
     A custom CSS, HTML, and JS based website that leverages the Pdf.js library
@@ -162,6 +168,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro URL Shortener](https://www.github.com/ubiquitous-projects/ubipro-url-shortener) -
     An Express, MongoDB, and Node based API for a shortening URLs.
+
+-   [UbiPro Vanilla Counter](https://www.github.com/ubiquitous-projects/ubipro-vanilla-counter) -
+    A vanilla CSS, HTML, and JS based website for calculating total calories
+    consumed and burned, by tracking both meals and workouts.
 
 -   [UbiPro Voice Assistant](https://www.github.com/ubiquitous-projects/ubipro-voice-assistant) -
     A Python3 based app for assisting with interactions via voice commands.
