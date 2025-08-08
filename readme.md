@@ -9,6 +9,7 @@ projects designed to spark inspiration and kickstart creativity.
 Each project in this repo includes:
 
 -   🔹 A brief description of the idea.
+
 -   🔹 An existing implementation or starter template.
 
 Whether you're a beginner exploring your first build or a seasoned dev looking
@@ -57,6 +58,12 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 -   [UbiPro Deno Rester](https://www.github.com/ubiquitous-projects/ubipro-deno-rester) -
     A Deno, Oak, and PostgreSQL based RESTful API for a products frontend.
 
+-   [UbiPro DJB Eventer](https://www.github.com/ubiquitous-projects/ubipro-djb-eventer) -
+    A Strapi based backend for tracking and scheduling DJ events.
+
+-   [UbiPro DJF Eventer](https://www.github.com/ubiquitous-projects/ubipro-djf-eventer) -
+    A Next.js based frontend for tracking and scheduling DJ events.
+
 -   [UbiPro Easy Bookmarker](https://www.github.com/ubiquitous-projects/ubipro-easy-bookmarker) -
     A pure CSS, HTML, and JS based website for easily bookmarking websites using
     LocalStorage.
@@ -73,6 +80,10 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 
 -   [UbiPro Github Searcher](https://www.github.com/ubiquitous-projects/ubipro-github-searcher) -
     An Angular 2 based app for searching Github users and repos.
+
+-   [UbiPro Houses Lister](https://www.github.com/ubiquitous-projects/ubipro-houses-lister) -
+    A Firebase and React based app for quickly finding and listing houses up for
+    sale, lease, or rent.
 
 -   [UbiPro Image Minimiser](https://www.github.com/ubiquitous-projects/ubipro-image-minimiser) -
     An Electron based app for consistently minimising images.
@@ -179,6 +190,9 @@ _**🧠 Fork it, build it, improve it — let's give back to the community.**_
 -   [UbiPro Weather Reporter](https://www.github.com/ubiquitous-projects/ubipro-weather-reporter) -
     An Ionic 3 based app that uses the WunderGround API to track and deliver
     weather reports.
+
+-   [UbiPro Web Hoster](https://www.github.com/ubiquitous-projects/ubipro-web-hoster) -
+    A Foundation and SASS based app for templating a web hoster website.
 
 -   [UbiPro Wildfire Tracker](https://www.github.com/ubiquitous-projects/ubipro-wildfire-tracker) -
     A React based app that leverages the Google Maps API and the NASA API, to
